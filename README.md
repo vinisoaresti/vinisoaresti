@@ -1,5 +1,5 @@
 <h1>Web, Desktop, and Cloud Developer 💻</h1>
-<h4>Hello, welcome, and you can call me Vini!</h4>
-<p>I have experience in Web, Desktop and Cloud programming, using Javascript, Typescript, Java and C#.</p>
-<p>I’m currently exploring the Systems Analysis and Development course at IFPE campus Garanhuns, from where you'll see the projects developed here, and other technologies!👨‍💻</p>
+<h4>Hello, welcome, and you can call me Vini!👋🏼</h4>
+<p>I have experience in Web, Desktop and Cloud programming, using Javascript, Typescript, Java and C#.📑</p>
+<p>I’m currently exploring the Systems Analysis and Development course at IFPE campus Garanhuns, as well as other online materials/projects. You can see the completed/in development projects related to this journey throughout my profile, scrolling down, or accessing my portfolio website clicking <a href="https://viniciussoaresti.github.io/">here</a>!👨‍💻</p>
 <p>Feel free to contact me at my <a href="mailto:viniciussoares@gmail.com">email</a>, <a href="https://www.linkedin.com/in/vsti/">LinkedIn</a>, phone (+5581989217291) or <a href="https://api.whatsapp.com/send/?phone=5581989217291&text=Hello%20Vini%2C%20I%27ve%20came%20from%20GitHub%2C%20can%20we%20talk%20about%20a%20project%3F%0D%0A-%0D%0AOl%C3%A1%20Vini%2C%20vim%20do%20GitHub%2C%20podemos%20falar%20sobre%20um%20projeto%3F">WhatsApp</a>.</p>
