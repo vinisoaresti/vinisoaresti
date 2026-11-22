@@ -10,7 +10,7 @@
 
   <!-- BARRA DE CONTATO RÁPIDO & PORTFÓLIO -->
   <p>
-    <a href="https://github.com/vinisoaresti?tab=repositories" target="_blank">
+    <a href="https://vinisoaresti.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portf%C3%B3lio_Ao_Vivo-9D174D?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio Ao Vivo" />
     </a>
     <a href="https://www.linkedin.com/in/vinisoaresti/" target="_blank">
